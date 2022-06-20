@@ -35,8 +35,8 @@ export class HomeComponent implements OnInit {
   ) { }
 
   ngOnInit(): void {
-    // this.postExampple();
-    this.postMegaPrint();
+    this.postExampple();
+    // this.postMegaPrint();
    
   }
 
